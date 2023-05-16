@@ -1,0 +1,48 @@
+
+.heading{
+    color: #146C94;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 1px 1px 3px black;
+}
+
+
+.main-container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-div{
+    display: flex;
+    justify-content: center;
+}
+
+
+.box{
+    background-color:#146C94;
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+
+}
+
+
+.btn{
+    color: white;
+    background-color:black;
+    height: 45px;
+    width: 140px;
+    font-size: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: 45px;
+    
+}
+
+.box-color{
+    color: white;
+    position: relative;
+    padding-top:120px;
+    padding-left: 75px;
+        
+}
